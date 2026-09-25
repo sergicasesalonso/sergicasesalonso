@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Sergi, currently in Barcelona after spending 6 months in Sweden. Now doing my final year of Mathematical Engineering in Data Science.
+I'm Sergi, I'm currently in Barcelona after spending 6 months in Sweden. Now doing my final year of Mathematical Engineering in Data Science.
 
 - Currently working as an AI research intern at the Barcelona Supercomputing Center
 - I've recently built a model that predicts the structure of a protein using only its carbon trace, check it out here: [Protein](https://github.com/sergicasesalonso/Protein-Structure-Prediction)
